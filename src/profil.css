@@ -1,0 +1,38 @@
+.followers{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-gap: -9000px;
+    background-color: #2196F3;
+    padding: 10px;
+}
+.img_profil {
+  width: 200px;
+  height: 200px;
+  border-radius: 100px;
+}
+.img_profil {
+  position: absolute;
+  margin-left: -300px;
+}
+.kotak1 {
+  background-color: cornflowerblue;
+}
+.kotak1_1{
+    
+    background-color: violet;
+}
+.kotak2 {
+  padding-top: 10px;
+  background-color: crimson;
+}
+.kotak3 {
+  background-color: darkblue;
+}
+.img_pp_status {
+  width: 70px;
+  height: 70px;
+  border-radius: 100px;
+  position: absolute;
+  margin-left: -210px;
+  margin-top: 20px;
+}
